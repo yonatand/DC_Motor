@@ -1,5 +1,0 @@
-DC_Motor	KEYWORD1
-submitMotor	KEYWORD2
-speedMotor	KEYWORD2
-modeMotor	KEYWORD2
-setupMotor	KEYWORD2
