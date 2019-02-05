@@ -8,4 +8,3 @@ and 2 digital direction pins D0 and D1.<br />
 
 To see how the functions work check out motorFunctionsExample.
 
-This library was created for my school, but feel free to download and use it.
