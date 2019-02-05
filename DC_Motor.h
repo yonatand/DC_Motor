@@ -1,6 +1,5 @@
 /*
   DC_Motor.h created by Yonatan Dolgopyatov for Madaim School.
-  Last edited: 02/04/2019 (MM/DD/YYYY)
 */
 
 #ifndef DC_Motor_h
