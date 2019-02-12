@@ -18,7 +18,7 @@ void setup() {
   
   /*
    * Setup the motor values in memory as:
-   * PWM to 127 (full speed)
+   * PWM to 255 (full speed)
    * D0 to 1
    * D1 to 0
    * (sets direction)
