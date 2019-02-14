@@ -1,4 +1,4 @@
-/*
+/* Written for Arduino Uno
  * An example for DC_Motor made by Yonatan Dolgopyatov for Madaim school.
  */
  
