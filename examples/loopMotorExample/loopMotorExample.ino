@@ -1,3 +1,4 @@
+// Written for Arduino Uno
 #include <DC_Motor.h>
 
 //create the DC_Motor object
